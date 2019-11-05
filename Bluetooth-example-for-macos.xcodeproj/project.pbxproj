@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F049FCA2371716400986581 /* Acceleration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F049FC92371716400986581 /* Acceleration.swift */; };
 		6FD9D6EF237128990087E2AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FD9D6EE237128990087E2AD /* AppDelegate.swift */; };
 		6FD9D6F1237128990087E2AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FD9D6F0237128990087E2AD /* ViewController.swift */; };
 		6FD9D6F4237128990087E2AD /* Bluetooth_example_for_macos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6FD9D6F2237128990087E2AD /* Bluetooth_example_for_macos.xcdatamodeld */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6F049FC92371716400986581 /* Acceleration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Acceleration.swift; sourceTree = "<group>"; };
 		6FD9D6EB237128990087E2AD /* Bluetooth-example-for-macos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bluetooth-example-for-macos.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FD9D6EE237128990087E2AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6FD9D6F0237128990087E2AD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				6FD9D6FA2371289A0087E2AD /* Info.plist */,
 				6FD9D6FB2371289A0087E2AD /* Bluetooth_example_for_macos.entitlements */,
 				6FD9D6F2237128990087E2AD /* Bluetooth_example_for_macos.xcdatamodeld */,
+				6F049FC92371716400986581 /* Acceleration.swift */,
 			);
 			path = "Bluetooth-example-for-macos";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 				6FD9D6F1237128990087E2AD /* ViewController.swift in Sources */,
 				6FD9D6EF237128990087E2AD /* AppDelegate.swift in Sources */,
 				6FD9D6F4237128990087E2AD /* Bluetooth_example_for_macos.xcdatamodeld in Sources */,
+				6F049FCA2371716400986581 /* Acceleration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
